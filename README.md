@@ -31,7 +31,7 @@ void Print(string something) => System.Console.WriteLine($"Something: {something
 Print("Else");
 ```
 
-This opens up a lot of possibilities for scripting and functional style programming.
+This opens up a lot of possibilities for scripting and functional style programming. However, we probably want to avoid this for "normal" projects.
 
 ## `record` type
 
