@@ -1,5 +1,6 @@
 # C# 9 Primer <!-- omit in toc -->
-Dev CoP, Nov. 13, 2020
+Dev CoP
+Friday, Nov. 13, 2020
 
 ## Index <!-- omit in toc -->
 
