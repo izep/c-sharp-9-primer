@@ -35,7 +35,9 @@ void Print(string something) => System.Console.WriteLine($"Something: {something
 Print("Else");
 ```
 
-This opens up a lot of possibilities for scripting and functional style programming. However, we probably want to avoid this for "normal" projects.
+This opens up a lot of possibilities for scripting and functional style programming.
+
+> However, we probably want to avoid this for "normal" projects. -Preston
 
 [Example](top-level-statements/)
 
